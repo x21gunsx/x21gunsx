@@ -10,13 +10,3 @@ You can click the Preview link to take a look at your changes.
 --->
 I will also be putting together powershell scripts I will use in the Information Security space.
 I will also have anything related to the Information Security Field, you can find me on Tryhackme, LinkedIN, and many other platforms under the handle x21gunsx
-This page will be used to list queries used in SumoLogic to detect the following:
-● Successful and unsuccessful logins.
-● Firewall modifications.
-● Malicious activity on end user systems.
-● VPN connectivity.
-● Elevation of account privileges Sudo/Sudo -su
-● Intrusion Prevention and Intrusion Detection notifications.
-● Systems nearing or exceeding established performance/storage thresholds. 
-● Active Directory object/user changes.
-● Changes to production source code.
