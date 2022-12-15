@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @x21gunsx
 - 👀 I’m interested in Incident Response, Cloud Security, Information Security Engineering
-- 🌱 I’m currently learning PNPT/EJPT on the red teaming side with TCM Security and sharpening my Incident Response knowledge using MITRE ATT&CK D3Fender Frameworks.
+- 🌱 I’m currently learning PNPT/EJPT on the red teaming side with TCM Security and sharpening my Incident Response knowledge using MITRE ATT&CK D3Fender Frameworks for the blue team side.
 - 💞️ I’m looking to collaborate on: Incident Response and MITRE TTPs
 - 📫 How to reach me: carter.robinson53@protonmail.com
 
